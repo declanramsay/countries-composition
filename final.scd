@@ -7,7 +7,7 @@
 
 (
 s = Server.local;
-b = Buffer.read(s, Platform.resourceDir +/+ "./vs-countries.aif");
+b = Buffer.read(s, Platform.resourceDir +/+ "sounds/vs-countries.aif");
 )
 
 (
